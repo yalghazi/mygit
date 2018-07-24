@@ -1,0 +1,2 @@
+# mygit
+practice git
